@@ -1,0 +1,3 @@
+.ekart-top-bar{
+  @apply flex justify-end content-end pt-1 pb-3 text-sm ;
+}

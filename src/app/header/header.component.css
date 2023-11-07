@@ -1,0 +1,21 @@
+button{
+  @apply px-2 py-1 border;
+}
+input{
+  @apply px-2 py-1 border;
+}
+.ekart-header{
+  @apply w-full flex flex-wrap;
+  height: auto;
+  border-bottom: #E5E4E2 1.5px solid;
+}
+.ekart-logo{
+  @apply px-6 py-3 text-5xl font-bold h-20;
+  color: #36454F;
+  font-family: 'concert One', cursive;
+  width: 12%;
+}
+.ekart-header-nav{
+  width: 85%;
+  padding: 1vh 1vh;
+}
